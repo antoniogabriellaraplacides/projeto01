@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin:10px 300px 400px;
+    
+}
+.projeto01{
+      
+}
+h1{
+    font-size: 40px;
+}
+li{
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+}
