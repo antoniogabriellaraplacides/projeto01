@@ -3,14 +3,17 @@ body{
     margin:10px 300px 400px;
     
 }
-.projeto01{
-      
-}
+
 h1{
     font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 li{
     display: flex;
     text-align: center;
     font-size: 30px;
+}
+img{
+    width: 400px;
+    height: 500px;
 }
